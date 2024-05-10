@@ -5,6 +5,7 @@ public class Hellosan {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello world");
 		System.out.println("Good Afternoon World");
+		System.out.println("Bye");
 
 	}
 
